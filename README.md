@@ -6,13 +6,15 @@
 为什么，爬到2011年？
 因为猫眼给的年度票房数据只到2011年
 
-![image](https://img.nga.178.com/attachments/mon_201902/15/-cckxQ5-9royK1iT3cS12w-b4.png)
+![科幻电影票房占比 TOP10](https://img.nga.178.com/attachments/mon_201902/15/-cckxQ5-9royK1iT3cS12w-b4.png)
 因为国内的电影大盘每年都在增加，而且有通货膨胀的缘故，所以通过票房比较是不公平的。
 所以我就用每部电影的票房除以当年的全年票房，也就是单部电影票房在全年票房的占比。
 这里看了下数据，只能说变形金刚，妇联威武。。。但里面木有国产片呀
 
 ![imgage](https://img.nga.178.com/attachments/mon_201902/15/-7Q5-j8pwK1dT3cS12w-b4.jpg.medium.jpg)
+
 其中《水滴》是一位大手的《三体》同人动画，猫眼并没有评分情况
+
  ![imgage](https://img.nga.178.com/attachments/mon_201902/15/-7Q5-fsvpK1dT3cS12w-b4.jpg.medium.jpg)
 这里明显可以看出，猫眼所打分明显是高于豆瓣的，而且区分度不大。
   ![imgage](https://img.nga.178.com/attachments/mon_201902/15/-7Q5-6h64ZbT3cS12w-m8.jpg.medium.jpg)
